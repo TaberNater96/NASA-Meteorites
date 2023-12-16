@@ -1,4 +1,4 @@
-# Global Meteorite Impact Analysis with XGBoost Prediction
+# Global Meteorite Impact Analysis with XGBoost Regression
 
 ![Global Mass Distribution](images/Global%20Mass%20Distribution.png)
 
